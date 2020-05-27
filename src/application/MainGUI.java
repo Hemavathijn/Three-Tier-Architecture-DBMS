@@ -101,8 +101,9 @@ public class MainGUI extends Application {
 			}
 		});
 
-		//Username =  'user'
+		//Username =  'user' 
 		//Password =  'pass'
+		//Loginwith these credentials
 		userPassInput.setOnKeyPressed(new EventHandler<KeyEvent>() {
 
 			@Override
