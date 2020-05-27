@@ -16,6 +16,8 @@ public class Person {
 	private SimpleStringProperty state;
 	private SimpleStringProperty country;
 
+	
+	//Personal Details
 	public Person(String firstName, String lastName, String localDate, String age, String email, String phoneNumber,
 			String address1, String address2, String city, String zipCode, String state, String country) {
 		this.firstName = new SimpleStringProperty(firstName);
