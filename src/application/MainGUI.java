@@ -58,7 +58,7 @@ public class MainGUI extends Application {
 	@Override
 	public void start(Stage primaryStage) {
 
-		/** Layout of main frame : Login for database **/
+		/*** Layout of main frame : Login for database ***/
 
 		mainDialog = new Stage();
 		primaryStage.setTitle("Welcome to the Database");
